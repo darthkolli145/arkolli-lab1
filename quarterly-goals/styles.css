@@ -1,0 +1,31 @@
+.quarterly-goals h2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.quarterly-goals h3 {
+    font-size: 18px;
+    color: #2DBDB1;
+    margin-bottom: 15px;
+}
+
+.quarterly-goals ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.quarterly-goals li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.quarterly-goals .progress {
+    float: right;
+    color: #666;
+}
+
+.quarterly-goals a {
+    color: #2DBDB1;
+    text-decoration: none;
+}
